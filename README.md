@@ -1,2 +1,1 @@
-# computer.science
-Computer Science Recommendations
+🔖 [Computer Science Recommendations](https://thecomputersciencebook.com/)
