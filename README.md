@@ -1,1 +1,1 @@
-🔖 [Computer Science Recommendations](https://thecomputersciencebook.com/)
+🔖 [Computer Science Recommendations](https://williamgleeson.github.io/computer.science/)
