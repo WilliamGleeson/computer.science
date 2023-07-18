@@ -1,8 +1,8 @@
-🔖 [Resources](https://williamgleeson.github.io/computer.science/){:target="_blank"}  for anyone with interest in Computer Science.
+🔖 [Resources](https://williamgleeson.github.io/computer.science/) for anyone with interest in Computer Science.
 
 ***
 
-Details of the undergraduate degree I studied at [**The University of Queensland**](https://www.uq.edu.au/)   :school:
+Details of the undergraduate degree I studied at [**The University of Queensland**](https://www.uq.edu.au/) :school:
 
 ***
 
