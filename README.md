@@ -2,7 +2,7 @@
 
 ***
 
-The links below provide subject details of the 🔖 [Bachelor of Computer Science](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2451) :computer: undergraduate degree I studied at [**The University of Queensland**](https://www.uq.edu.au/) :school:
+The links below provide subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2451) degree I studied at [**The University of Queensland**](https://www.uq.edu.au/)
 
 ***
 
