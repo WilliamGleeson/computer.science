@@ -1,4 +1,4 @@
-🔖 [Resources](https://williamgleeson.github.io/computer.science/) for anyone with interest in Computer Science.
+A list of resources for anyone with interest in Computer Science can be found here (https://williamgleeson.github.io/computer.science/).
 
 ***
 
