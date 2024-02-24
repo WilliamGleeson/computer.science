@@ -65,3 +65,27 @@ Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.a
 🔖 [COSC3500 - High-Performance Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=COSC3500)
 
 
+***
+
+Online Training
+---------------
+
+🔖 [MIT Open Learning](https://openlearning.mit.edu/courses-programs/open-learning-library/)
+
+🔖 [FreeCodeCamp](https://www.freecodecamp.org/)
+
+🔖 [Coursera](https://www.coursera.org/)
+
+🔖 [Udemy](https://www.udemy.com/)
+
+🔖 [PluralSight](https://www.pluralsight.com/)
+
+🔖 [SoloLearn](https://www.sololearn.com/)
+
+🔖 [CodeAcademy](https://www.codecademy.com/)
+
+🔖 [Atlassian](https://university.atlassian.com/student/catalog)
+
+🔖 [edX](https://www.edx.org/)
+
+🔖 [Brilliant](https://brilliant.org/)
