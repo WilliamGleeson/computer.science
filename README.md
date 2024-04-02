@@ -67,22 +67,7 @@ Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.a
 
 ***
 
-Online Training
----------------
 
-🔖 [MIT Open Learning](https://openlearning.mit.edu/courses-programs/open-learning-library/)
-
-🔖 [FreeCodeCamp](https://www.freecodecamp.org/)
-
-🔖 [Coursera](https://www.coursera.org/)
-
-🔖 [Udemy](https://www.udemy.com/)
-
-🔖 [PluralSight](https://www.pluralsight.com/)
-
-🔖 [SoloLearn](https://www.sololearn.com/)
-
-🔖 [CodeAcademy](https://www.codecademy.com/)
 
 🔖 [Atlassian](https://university.atlassian.com/student/catalog)
 
