@@ -63,14 +63,3 @@ Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.a
 🔖 [COMP3702 - Artifical Intelligence](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3702)
 
 🔖 [COSC3500 - High-Performance Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=COSC3500)
-
-
-***
-
-
-
-🔖 [Atlassian](https://university.atlassian.com/student/catalog)
-
-🔖 [edX](https://www.edx.org/)
-
-🔖 [Brilliant](https://brilliant.org/)
