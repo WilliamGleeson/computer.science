@@ -4,6 +4,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2451) degree I studied at [**The University of Queensland**](https://www.uq.edu.au/).
 
+  
 
 ## YEAR ONE
 
@@ -25,6 +26,7 @@ Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.a
 
 🔖 [STAT1201 - Analysis of Scientific Data (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT1201)
 
+  
 
 ## YEAR TWO
 
@@ -46,6 +48,7 @@ Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.a
 
 🔖 [COSC2500 - Numerical Methods in Computational Science](https://my.uq.edu.au/programs-courses/course.html?course_code=COSC2500)
 
+  
 
 ## YEAR THREE
 
