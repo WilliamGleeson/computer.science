@@ -6,8 +6,7 @@ Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.a
 
 \
 \
-\
-  
+
 ## YEAR ONE
 
 🔖 [CSSE1001 - Introduction to Software Engineering (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE1001)
@@ -28,7 +27,6 @@ Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.a
 
 🔖 [STAT1201 - Analysis of Scientific Data (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT1201)
 
-\
 \
 \
 
@@ -52,7 +50,6 @@ Subject details of the [**Bachelor of Computer Science**](https://study.uq.edu.a
 
 🔖 [COSC2500 - Numerical Methods in Computational Science](https://my.uq.edu.au/programs-courses/course.html?course_code=COSC2500)
 
-\
 \
 \
 
