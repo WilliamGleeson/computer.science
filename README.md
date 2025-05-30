@@ -37,7 +37,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [INFS2200 Relational Databases](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS2200)
 
-🔖 [COSC2500 Numerical Analysis](https://my.uq.edu.au/programs-courses/course.html?course_code=COSC2500)
+🔖 [INFS3208 Cloud Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208)
 
 🔖 [COMP2140 Web/Mobile Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2140)
 
