@@ -33,7 +33,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [STAT1201 Analysis of Scientific Data](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT1201)
 
-🔖 [COMP3506 Algoritms and Data Structures (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3506)
+🔖 [COMP3506 Algorithms and Data Structures (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3506)
 
 🔖 [INFS2200 Relational Databases](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS2200)
 
