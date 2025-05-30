@@ -37,7 +37,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [INFS2200 Relational Databases](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS2200)
 
-🔖 [INFS3208 Cloud Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208)
+🔖 [COMP3702 Artificial Intelligence](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3702)
 
 🔖 [COMP2140 Web/Mobile Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2140)
 
@@ -58,7 +58,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [CYBR3000 Information Security](https://my.uq.edu.au/programs-courses/course.html?course_code=CYBR3000)
 
-🔖 [COMP3702 Artificial Intelligence](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3702)
+🔖 [INFS3208 Cloud Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS3208)
 
 🔖 [COSC3500 High-Performance Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=COSC3500)
 
