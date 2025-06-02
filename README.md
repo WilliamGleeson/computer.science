@@ -10,7 +10,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [INFS1200 Introduction to Information Systems (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS1200)
 
-🔖 [MATH1061 Discrete Mathematics (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061)
+🔖 [MATH1051 Calculus and Linear Algebra](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1051)
 
 🔖 [DECO1400 Introduction to Web Design](https://my.uq.edu.au/programs-courses/course.html?course_code=DECO1400)
 
@@ -21,7 +21,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [COMP1100 Introduction to Software Innovation (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP1100)
 
-🔖 [MATH1051 Calculus and Linear Algebra](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1051)
+🔖 [MATH1061 Discrete Mathematics (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061)
 
 ## YEAR TWO
 
