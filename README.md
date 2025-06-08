@@ -10,18 +10,18 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [INFS1200 Introduction to Information Systems (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS1200)
 
-🔖 [MATH1051 Calculus and Linear Algebra](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1051)
-
 🔖 [DECO1400 Introduction to Web Design](https://my.uq.edu.au/programs-courses/course.html?course_code=DECO1400)
 
-
+🔖 [MATH1061 Discrete Mathematics (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061)
+***
 🔖 [CSSE2002 Programming in the Large (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2002)
 
 🔖 [CSSE2010 Introduction to Computer Systems (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2010)
 
 🔖 [COMP1100 Introduction to Software Innovation (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP1100)
 
-🔖 [MATH1061 Discrete Mathematics (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061)
+🔖 [MATH1051 Calculus and Linear Algebra](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1051)
+
 
 ## YEAR TWO
 
@@ -32,7 +32,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 🔖 [COMP3400 Functional and Logic Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3400)
 
 🔖 [STAT1201 Analysis of Scientific Data](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT1201)
-
+***
 🔖 [COMP3506 Algorithms and Data Structures (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3506)
 
 🔖 [INFS2200 Relational Databases](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS2200)
@@ -52,8 +52,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 🔖 [COSC3000 Visualization, Computer Graphics & Data Analysis](https://my.uq.edu.au/programs-courses/course.html?course_code=COSC3000)
 
 🔖 [COMS3200 Computer Networks](https://my.uq.edu.au/programs-courses/course.html?course_code=COMS3200)
-
-
+***
 🔖 [COMP3301 Operating Systems](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3301)
 
 🔖 [COMP3702 Artificial Intelligence](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3702)
