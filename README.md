@@ -6,46 +6,46 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 ## YEAR ONE
 
-🔖 [CSSE1001 Introduction to Software Engineering (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE1001)
+🔖 [CSSE1001 Introduction to Software Engineering](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE1001)
 
-🔖 [INFS1200 Introduction to Information Systems (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS1200)
+🔖 [INFS1200 Introduction to Information Systems](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS1200)
 
 🔖 [DECO1400 Introduction to Web Design](https://my.uq.edu.au/programs-courses/course.html?course_code=DECO1400)
 
-🔖 [MATH1061 Discrete Mathematics (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061)
-***
-🔖 [CSSE2002 Programming in the Large (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2002)
+🔖 [MATH1061 Discrete Mathematics](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061)
 
-🔖 [CSSE2010 Introduction to Computer Systems (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2010)
-
-🔖 [COMP1100 Introduction to Software Innovation (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP1100)
+🔖 [COMP1100 Introduction to Software Innovation](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP1100)
 
 🔖 [MATH1051 Calculus and Linear Algebra](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1051)
+
+🔖 [STAT1201 Analysis of Scientific Data](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT1201)
+
 
 
 ## YEAR TWO
 
-🔖 [COMP2048 Theory of Computing (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2048)
+🔖 [CSSE2002 Programming in the Large](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2002)
 
-🔖 [CSSE2310 Computer Systems Principles and Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2310)
+🔖 [CSSE2010 Introduction to Computer Systems](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2010)
 
-🔖 [COMP3400 Functional and Logic Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3400)
-
-🔖 [STAT1201 Analysis of Scientific Data](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT1201)
-***
-🔖 [COMP3506 Algorithms and Data Structures (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3506)
+🔖 [COMP2048 Theory of Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2048)
 
 🔖 [INFS2200 Relational Databases](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS2200)
-
-🔖 [CYBR3000 Information Security](https://my.uq.edu.au/programs-courses/course.html?course_code=CYBR3000)
 
 🔖 [COMP2140 Web/Mobile Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2140)
 
 
 ## YEAR THREE
 
+🔖 [CYBR3000 Information Security](https://my.uq.edu.au/programs-courses/course.html?course_code=CYBR3000)
 
-🔖 [DECO3801 Design Computing Studio (CORE)](https://my.uq.edu.au/programs-courses/course.html?course_code=DECO3801)
+🔖 [CSSE2310 Computer Systems Principles and Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2310)
+
+🔖 [COMP3400 Functional and Logic Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3400)
+
+🔖 [COMP3506 Algorithms and Data Structures](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3506)
+
+🔖 [DECO3801 Design Computing Studio](https://my.uq.edu.au/programs-courses/course.html?course_code=DECO3801)
 
 🔖 [COMP4403 Compilers and Interpreters](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP4403)
 
