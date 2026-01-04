@@ -12,14 +12,15 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [DECO1400 Introduction to Web Design](https://my.uq.edu.au/programs-courses/course.html?course_code=DECO1400)
 
-🔖 [MATH1061 Discrete Mathematics](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061)
-
 🔖 [COMP1100 Introduction to Software Innovation](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP1100)
 
 🔖 [MATH1051 Calculus and Linear Algebra](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1051)
 
-🔖 [STAT1201 Analysis of Scientific Data](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT1201)
+🔖 [MATH1052 Multivariate Calculus & Ordinary Differential Equations](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1052)
 
+🔖 [MATH1061 Discrete Mathematics](https://my.uq.edu.au/programs-courses/course.html?course_code=MATH1061)
+
+🔖 [STAT1201 Analysis of Scientific Data](https://my.uq.edu.au/programs-courses/course.html?course_code=STAT1201)
 
 
 ## YEAR TWO
@@ -30,16 +31,20 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 
 🔖 [COMP2048 Theory of Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2048)
 
+🔖 [COMP2140 Web/Mobile Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2140)
+
+🔖 [COMP2200 Ethical Practice in Computing](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2200)
+
+🔖 [CSSE2310 Computer Systems Principles and Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2310)
+
 🔖 [INFS2200 Relational Databases](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS2200)
 
-🔖 [COMP2140 Web/Mobile Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP2140)
+🔖 [DECO2500 Human-Computer Interaction](https://my.uq.edu.au/programs-courses/course.html?course_code=DECO2500)
 
 
 ## YEAR THREE
 
 🔖 [CYBR3000 Information Security](https://my.uq.edu.au/programs-courses/course.html?course_code=CYBR3000)
-
-🔖 [CSSE2310 Computer Systems Principles and Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2310)
 
 🔖 [COMP3400 Functional and Logic Programming](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3400)
 
@@ -52,7 +57,7 @@ A list of [**resources**](https://williamgleeson.github.io/computer.science/) fo
 🔖 [COSC3000 Visualization, Computer Graphics & Data Analysis](https://my.uq.edu.au/programs-courses/course.html?course_code=COSC3000)
 
 🔖 [COMS3200 Computer Networks](https://my.uq.edu.au/programs-courses/course.html?course_code=COMS3200)
-***
+
 🔖 [COMP3301 Operating Systems](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3301)
 
 🔖 [COMP3702 Artificial Intelligence](https://my.uq.edu.au/programs-courses/course.html?course_code=COMP3702)
