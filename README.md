@@ -12,3 +12,8 @@ A link to [**study plans**](https://eecs.uq.edu.au/current-students/academic-adv
 | CSSE2010 | DECO2500 | STAT1201 | COMP2048 |
 | CSSE2310 | COMP3506 | INFS2200 | COMP2140 |
 
+| Year 3a | Year3b | Year3c | Year3d |
+| ------- | ------ | ------ | ------ |
+| CSSE3012 | COMS3200 | COMP4403 | COMP3400 |
+| DECO3801 | COMP3301 | CYBR3000 | COMP3702 |
+
