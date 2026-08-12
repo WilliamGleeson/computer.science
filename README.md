@@ -1,3 +1,3 @@
 A list of [**resources**](https://williamgleeson.github.io/computer.science/) for anyone with an interest in [**Computer Science**](https://en.wikipedia.org/wiki/Computer_science). 
 
-A link to [**study plans**](https://eecs.uq.edu.au/current-students/academic-advice/bachelor-computer-science) for the [**Bachelor of Computer Science**](https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2559) degree I completed.
+The [**Bachelor of Computer Science**](https://eecs.uq.edu.au/current-students/academic-advice/bachelor-computer-science) degree offered by [**University of Queensland**](https://uq.edu.au/).
